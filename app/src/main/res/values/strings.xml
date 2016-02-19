@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenCV</string>
+    <string name="min_treshold">Min threshold </string>
+    <string name="max_treshold">Max threshold </string>
+</resources>
