@@ -14,3 +14,5 @@ http://opencv.org/downloads.html
 
 ## Credits
  * [@hector](https://github.com/h3ct0r)
+ * [@hery84](https://github.com/hery84)
+ 
